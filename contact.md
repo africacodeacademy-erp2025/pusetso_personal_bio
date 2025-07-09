@@ -1,15 +1,15 @@
 # Contact
 
-Provide your contact information here. You can include your email, LinkedIn profile, or any other ways to reach you.
+Feel free to reach out to me through any of the following channels:
 
 ## Email
 
-<your.email@example.com>
+pusetro142@gmail.com
 
 ## LinkedIn
 
-[LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+[LinkedIn Profile](https://www.linkedin.com/in/pusetso-borantisi)
 
 ## GitHub
 
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/pusetsoxvii)
