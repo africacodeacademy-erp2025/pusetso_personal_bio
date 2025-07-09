@@ -1,45 +1,48 @@
-# My Personal Bio
-
 ## About Me
-Hello! My name is [Your Name]. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
+
+Hello! My name is Pusetso Borantisi. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
 
 ## Background
-- **Name:** [Your Full Name]
-- **Location:** [Your Location]
-- **Education:** [Your Education Background]
-- **Skills:** [List of Skills]
+
+- **Name:** Pusetso Borantisi  
+- **Location:** Ha Motemekoane, Upper Qeme, Maseru, Lesotho  
+- **Education:** Undergraduate student at Botho University pursuing a BSc Honours in Computing specializing in Software Engineering  
+- **Skills:** Java, C++, C#, HTML, JavaScript, PHP, MySQL
 
 ## Journey
+
 ### Early Life
-[Describe your early life and how you got interested in software development.]
+
+I grew up heading cattle in my hometown, which taught me patience and resilience. I learned a lot from my parents and church community, which helped shape my values and work ethic. My interest in software development grew as I explored technology and its potential to solve real-world problems.
 
 ### Education and Career
-[Describe your education journey and any relevant work experience.]
+
+I am currently studying Software Engineering at Botho University. Alongside my studies, I have worked on projects such as breeding crossbreeds of Kangal dogs and German Shepherds, which combined my passion for innovation and agriculture. I am also gaining practical experience through the Africa Code Academy Engineering Residency Program.
 
 ### Goals
-[Outline your goals for the future and what you hope to achieve through this program.]
+
+Through this program, I aim to master modern programming languages and frameworks, build proficiency in full-stack development, and learn industry best practices in code quality, testing, and deployment. I aspire to develop expertise in AI, blockchain, and mobile development and to contribute solutions in agriculture and innovation.
 
 ## Projects
-### Project 1
-[Description of the first project]
 
-### Project 2
-[Description of the second project]
+### Project 1
+
+Dog Breeding Crossbreeds — Developed a project focused on breeding crossbreeds of Kangal dogs and German Shepherds, applying innovation to improve breeding practices.
 
 ## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+
+- **Email:** pusetro142@gmail.com  
+- **LinkedIn:** Pusetso Borantisi  
+- **GitHub:** [https://github.com/pusetsoxvii](https://github.com/pusetsoxvii)
 
 ---
 
-# Alternate Mult-Page Template
+# Alternate Multi-Page Template
 
 ## Sections
 
-- [About Me](about.md)
-- [Skills](skills.md)
-- [Projects](projects/index.md)
+- [About Me](about.md)  
+- [Skills](skills.md)  
+- [Projects](projects/index.md)  
 - [Contact](contact.md)
 
-This is the main landing page for your profile. Customize it to introduce yourself and provide links to other sections.
