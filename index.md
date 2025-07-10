@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Pusetso Borantisi. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
+Hello! My name is Pusetso Borantisi. I am a participant in the Africa Code Academy Engineering Residency Program 2025.
 
 ## Background
 
