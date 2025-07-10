@@ -8,8 +8,8 @@ pusetro142@gmail.com
 
 ## LinkedIn
 
-[LinkedIn Profile](https://www.linkedin.com/in/pusetso-borantisi)
+https://www.linkedin.com/in/pusetso-borantisi
 
 ## GitHub
 
-[GitHub Profile](https://github.com/pusetsoxvii)
+https://github.com/pusetsoxvii
